@@ -1,6 +1,13 @@
 # Farmácia
 <h4>Projeto utilizando o framework Spring que simula a manipulação do banco de dados de uma farmácia</h4>
 
+<h3>Ferramentas utilizadas:</h3>
+<div>
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+</div>
+
 <h3>Metódos utilizados na tabela Categoria:</h3>
 
 1. Cadastrar novas categorias
