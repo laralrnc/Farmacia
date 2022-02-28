@@ -37,7 +37,7 @@
 <a href="https://imgur.com/VRYXTnS"><img src="https://i.imgur.com/VRYXTnS.png" title="source: imgur.com" /></a>
 <h3>Busca pelos produtos com preço maior que um valor específico. Exemplo: Exibição somente de produtos com valor acima de R$120:</h3>
 <a href="https://imgur.com/xoVIEDA"><img src="https://i.imgur.com/xoVIEDA.png" title="source: imgur.com" /></a>
-<h3>Busca utilizando dois parametros (nome e laboratório). Exemplo: Exibição somente do medicamento Litocit produzido pela APSEN:</h3>
+<h3>Busca utilizando dois parâmetros (nome e laboratório). Exemplo: Exibição somente do medicamento Litocit produzido pela APSEN:</h3>
 <a href="https://imgur.com/OsYvfYB"><img src="https://i.imgur.com/OsYvfYB.png" title="source: imgur.com" /></a>
 
 
